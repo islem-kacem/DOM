@@ -1,0 +1,32 @@
+*{
+    margin:0 ;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.text{
+  tab-size: 18px; 
+  background-color: aqua;
+  border-radius: 0 0 40px 40px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+h3{
+    padding-top: 13px;
+    padding-bottom: 12px;
+}
+
+img{
+    width: 90px;
+}
+
+
+.btn1:hover{
+    background-color: aqua;
+    cursor: pointer;
+}
+
+.btn2:hover{
+    background-color: red;
+    cursor: pointer;
+}
